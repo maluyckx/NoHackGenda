@@ -1,0 +1,15 @@
+{
+  "name": "@nohackgenda/www",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "mkdir -p build && cp -r src/* build/"
+  },
+  "contributors": [
+    {
+      "name": "etoome"
+    },
+    {
+      "name": "maluyckx"
+    }
+  ]
+}

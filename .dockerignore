@@ -1,0 +1,28 @@
+*
+
+# API
+!/packages/api/src
+!/packages/api/scripts
+!/packages/api/public
+!/packages/api/package*.json
+!/packages/api/tsconfig.json
+
+# WWW
+!/packages/www/src
+!/packages/www/package*.json
+
+# AUTH
+!/packages/auth/src
+!/packages/auth/static
+!/packages/auth/package*.json
+!/packages/auth/tsconfig.json
+!/packages/auth/*config.js
+!/packages/auth/*config.cjs
+
+# APP
+!/packages/app/src
+!/packages/app/static
+!/packages/app/package*.json
+!/packages/app/tsconfig.json
+!/packages/app/*config.js
+!/packages/app/*config.cjs
