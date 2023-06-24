@@ -37,4 +37,4 @@ Open your favorite browser and go to http://localhost:8080 or simply click [here
 
 ## Security features <a name="security_features"></a>
 
-We have implemented various security features to ensure the safety of your data. You can find detailed information in our <a href="https://github.com/maluyckx/NoHackGenda/-/blob/main/report.pdf" title="report">report</a>.
+We have implemented various security features to ensure the safety of your data. You can find detailed information in our <a href="https://github.com/maluyckx/NoHackGenda/blob/master/report.pdf" title="report">report</a>.
